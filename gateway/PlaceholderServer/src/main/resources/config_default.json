@@ -3,7 +3,7 @@
     "server_port": 8081,
     "server_icon": "server-icon.png",
     "server_motd": [ 
-    	"§a[ §fBetter Build"
+    	"§fThank You For Using §a§lBetterBuild §fClient!"
     ],
     "server_name": "§aBetterBuild §fNetworks",
     "server_uuid": "${random_uuid}",
