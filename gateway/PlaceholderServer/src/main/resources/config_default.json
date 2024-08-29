@@ -3,11 +3,11 @@
     "server_port": 8081,
     "server_icon": "server-icon.png",
     "server_motd": [ 
-    	"1.8 is still under construction"
+    	"§a[ §fBetter Build"
     ],
-    "server_name": "EaglercraftX 1.8 Server",
+    "server_name": "§aBetterBuild §fNetworks",
     "server_uuid": "${random_uuid}",
     "client_timeout": 3000,
-    "kick_message": "This EaglercraftX 1.8 server is still under construction!",
+    "kick_message": "§a[ §fBetterBuild - We're Sorry But This Is A Placeholder And It Is Meant To Showcase How The Server Will Look Like!",
     "redirect_legacy": null
 }
