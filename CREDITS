@@ -1,17 +1,17 @@
 
- EaglercraftX Developers
+ BetterBuild Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
 
- lax1dude:
+ flo.cka (Also known as Floco):
  
-  - Creator of Eaglercraft
+  - Creator of BetterBuild
   - Wrote HW accelerated OpenGL 1.3 emulator
   - Wrote all desktop emulation code
   - Ported the Minecraft 1.8 client src to TeaVM
   - Wrote EaglercraftXBungee
   - Wrote the patch and build system
  
- ayunami2000:
+ neo_was.here.frfr (Also known as Neo):
  
   - Many bug fixes
   - Added resource packs
@@ -21,7 +21,7 @@
 
 
 
- Code used within EaglercraftX
+ Code used within BetterBuild
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -647,7 +647,3 @@
  * THE SOFTWARE.
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
- Make sure you also update the copy of this file in "sources/resources/assets/eagler/CREDITS"
- 
- The content of both files should match, but not include this notice in the resources one
