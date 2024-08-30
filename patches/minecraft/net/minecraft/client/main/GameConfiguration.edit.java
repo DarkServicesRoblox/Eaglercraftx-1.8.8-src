@@ -1,5 +1,5 @@
 
-# Eagler Context Redacted Diff
+# Lyra Context Redacted Diff
 # Copyright (c) 2023 lax1dude. All rights reserved.
 
 # Version: 1.0
