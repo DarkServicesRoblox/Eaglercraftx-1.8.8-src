@@ -1,4 +1,4 @@
-server_name: 'BetterBuild Networks'
+server_name: '§d§lL §d§ly §d§lr §d§la Networks'
 server_uuid: ${random_uuid}
 websocket_connection_timeout: 15000
 websocket_handshake_timeout: 5000
