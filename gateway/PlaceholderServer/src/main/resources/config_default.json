@@ -3,11 +3,11 @@
     "server_port": 8081,
     "server_icon": "server-icon.png",
     "server_motd": [ 
-    	"§fThank You For Using §a§lBetterBuild §fClient!"
+    	"§fThank You For Using §d§lL §d§ly §d§lr §d§la §fClient!"
     ],
-    "server_name": "§aBetterBuild §fNetworks",
+    "server_name": "§d§lL §d§ly §d§lr §d§la §fNetworks",
     "server_uuid": "${random_uuid}",
     "client_timeout": 3000,
-    "kick_message": "§a[ §fBetterBuild - We're Sorry But This Is A Placeholder And It Is Meant To Showcase How The Server Will Look Like!",
+    "kick_message": "§f[ §d§lL §d§ly §d§lr §d§la §f- §fWe're Sorry But This Is A Placeholder And It Is Meant To Showcase How The Server Will Look Like!",
     "redirect_legacy": null
 }
