@@ -1,27 +1,28 @@
 
- BetterBuild Developers
+ L y r a  Developers
  ~~~~~~~~~~~~~~~~~~~~~~~
 
  flo.cka (Also known as Floco):
  
-  - Creator of BetterBuild
-  - Wrote HW accelerated OpenGL 1.3 emulator
+  - Creator of L y r a
+  - Designed the whole application
   - Wrote all desktop emulation code
   - Ported the Minecraft 1.8 client src to TeaVM
-  - Wrote EaglercraftXBungee
   - Wrote the patch and build system
  
- neo_was.here.frfr (Also known as Neo):
+ majsterek_pl (Also known as Majsterek):
  
-  - Many bug fixes
+  - Created Keystrokes
   - Added resource packs
   - Added screen recording
   - Added seamless fullscreen
-  - Created the replit
+  - Designed The Logo
 
+ neo_was.here.frfr (Also known as Neo):
 
+  - Tester
 
- Code used within BetterBuild
+ Code used within L y r a
  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
