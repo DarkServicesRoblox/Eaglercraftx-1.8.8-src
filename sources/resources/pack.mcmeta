@@ -377,7 +377,7 @@
         }
     },
     "pack": {
-        "description": "The default look of Minecraft",
+        "description": "§fWelcome To §d§lLyra §f§lClient",
         "pack_format": 1
     }
 }
